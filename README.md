@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **web development to enhance my skills🎃**
 
-- 🌱 I’m currently learning **Next JS🔥 | React JS🧨 | Block Chain⚔🔗⛓**
+- 🌱 I’m currently learning **Next JS🔥 | React JS🧨 | Gen AI⚔🔗⛓**
 
 - 👯 I’m looking to collaborate on **open source projects - "good first issue"**
 
-- 🤝 I’m looking for help with **Block Chain & New Tech in industry🎡**
+- 🤝 I’m looking for help with **Block Chain, Generative AI & New Tech in industry🎡**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/mohammad-abbas-b41828270](www.linkedin.com/in/mohammad-abbas-b41828270)
 
