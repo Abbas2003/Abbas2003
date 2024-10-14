@@ -14,13 +14,13 @@
 
 - 🤝 I’m looking for help with **Block Chain, Generative AI & New Tech in industry🎡**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/mohammad-abbas-b41828270](www.linkedin.com/in/mohammad-abbas-b41828270)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/mohammad-abbas-dev](www.linkedin.com/in/mohammad-abbas-dev)
 
 - 💬 Ask me about **Python🐍 | HTML✏ | CSS💥 | JS📍 | React JS🧨 | Next JS🔥 | SQL🛒**
 
 - 📫 How to reach me **Abbas.mohammad805@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/mohammad-abbas-b41828270](www.linkedin.com/in/mohammad-abbas-b41828270)
+- 📄 Know about my experiences [www.linkedin.com/in/mohammad-abbas-dev](www.linkedin.com/in/mohammad-abbas-dev)
 
 - ⚡ Fun fact **buy me a coffee☕😂**
 
