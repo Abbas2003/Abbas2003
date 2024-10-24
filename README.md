@@ -1,12 +1,12 @@
 ![logo](https://github.com/Abbas2003/Abbas2003/blob/main/_Blue%20%26%20Yellow%20Modern%20Technology%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm M.Abbas</h1>
-<h3 align="center">A Passionate Full Stack Developer From Pakistan</h3>
+<h3 align="center">A Passionate Full Stack Software & GenAI Developer From Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbas2003&label=Profile%20views&color=0e75b6&style=flat" alt="abbas2003" /> </p>
 
-- 🔭 I’m currently working on **web development to enhance my skills🎃**
+- 🔭 I’m currently working on **MERN Stack & GenAI to enhance my skills🎃**
 
 - 🌱 I’m currently learning **Next JS🔥 | React JS🧨 | Gen AI⚔🔗⛓**
 
